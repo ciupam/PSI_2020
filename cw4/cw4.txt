@@ -1,0 +1,30 @@
+Mateusz Ciupa 291062, SPRAWOZDANIE
+
+1. Komunikacja z programem (z okna Prologu), efektem działania programu 
+jest rozpoznanie obiektu – nie pierwszego zapisanego w programie:
+
+    ?- run.
+    has it fictional_setting
+    |: n.
+    has it tools
+    |: y.
+    has it big_map
+    |: y.
+    has it advanced_narrative
+    |: n.
+    has it multiplayer
+    |: y.
+    has it microstransactions
+    |: n.
+
+    Your game may be a(n) terraria
+
+
+
+    Please press the space bar to exit
+    true.
+
+2. Słabe strony programu:
+
+3. Czy program został poprawiony?
+    Tak.
